@@ -1,0 +1,13 @@
+# API secrets
+Secrets.swift
+
+# macOS
+.DS_Store
+
+# Xcode user settings
+xcuserdata/
+*.xcuserstate
+
+# Build files
+DerivedData/
+build/
